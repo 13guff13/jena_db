@@ -313,6 +313,12 @@
     <dependencies>
 
       <dependency>
+        <groupId>org.codehaus.plexus</groupId>
+        <artifactId>plexus-utils</artifactId>
+        <version>3.4.2</version>
+      </dependency>
+
+      <dependency>
         <groupId>org.junit</groupId>
         <artifactId>junit-bom</artifactId>
         <version>${ver.junit5}</version>
